@@ -1,5 +1,4 @@
 
-https://github.com/khalid-nur/ai-image-file-renamer/assets/85604999/2f10f496-16a3-49dd-9b37-8b6f9a5cf82f
 # ImageRenamerAI
 
 ImageRenamerAI is a tool that renames images using AI, making it easier to manage and find your photos by describing what's in them. It was built to help organize photo collections
