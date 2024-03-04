@@ -50,7 +50,7 @@ def main(secretKey, folderPath):
         # Get file extension
         fileExtension = filename.split('.')[-1].lower()
         # Checks the file extension to see if it ends with theses image formats
-        if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.gif')):
+        if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.webp')):
             filePath = os.path.join(folderPath, filename)
             print(f"Processing: {filePath}")
             # Convert the image to a base64 string
